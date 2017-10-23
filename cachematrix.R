@@ -49,6 +49,6 @@ cacheSolve <- function(x, ...) {
       InvVar
 }
 
-## Uncomment below to testing the code
+## Uncomment below for testing the code
 ##matrixtest <- matrix(c(1, 2, 3, 4), nrow = 2, ncol = 2)
 ##cacheSolve(makeCacheMatrix(matrixtest))
